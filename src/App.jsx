@@ -1,5 +1,4 @@
 // using reactboundary component
-
 import ErrorBoundary from './component/UsingReactBoundaryComponent/ErrorBoundries';
 import Counter from './component/UsingReactBoundaryComponent/Counter';
 import Alert from './component/UsingReactBoundaryComponent/Alert';
